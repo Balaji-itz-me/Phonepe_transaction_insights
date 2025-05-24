@@ -33,7 +33,7 @@
 - [📱 Mobile Compatibility](#-mobile-compatibility)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [👥 Authors](#-authors)
+- [👥 Author](#-author)
 - [🙏 Acknowledgments](#-acknowledgments)
 - [📞 Support](#-support)
 - [🖼️ Screenshots & Visualizations](#️-screenshots--visualizations)
