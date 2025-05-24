@@ -321,21 +321,14 @@ This section showcases the various visualizations and dashboards created for dif
 
 #### Executive Summary
 ![Power BI Executive Dashboard](images/powerbi/executive_summary.png)
-*High-level KPIs and business metrics overview*
+*Business metrics overview*
 
-#### Geographic Insights
-![Power BI Geographic Analysis](images/powerbi/geographic_insights.png)
-*Interactive geographical analysis with drill-down features*
+#### Business Insights
+![Decoding Transaction Dynamics on PhonePe](images/powerbi/transaction_dynamics.png)
+*Interactive transaction analysis with slicers features*
 
-![Regional Performance Comparison](images/powerbi/regional_comparison.png)
-*Comparative analysis across different regions*
-
-#### Trend Analysis
-![Historical Trends](images/powerbi/historical_trends.png)
-*Historical transaction trends and forecasting*
-
-![Seasonal Patterns](images/powerbi/seasonal_patterns.png)
-*Seasonal transaction pattern analysis*
+![User Registration Analysis](images/powerbi/user_registration.png)
+*Comparative analysis across different regions and time period*
 
 #### Insurance Analytics
 ![Insurance Dashboard](images/powerbi/insurance_analytics.png)
@@ -368,23 +361,15 @@ images/
 │
 ├── powerbi/
 │   ├── executive_summary.png
-│   ├── geographic_insights.png
-│   ├── regional_comparison.png
-│   ├── historical_trends.png
-│   ├── seasonal_patterns.png
-│   └── insurance_analytics.png
+│   ├── transaction_dynamics.png
+│   ├── user_registration.png
+│   ├── insurance_analytics.png
+
 │
 ├── analysis/
 │   ├── volume_distribution.png
 │   ├── correlation_matrix.png
 │   ├── boxplot_analysis.png
-│
-└── case_studies/
-    ├── urban_rural_comparison.png
-    ├── festival_impact.png
-    ├── insurance_performance.png
-    ├── regional_growth.png
-    └── category_trends.png
 ```
 
 > **Note**: All images are high-resolution screenshots and visualizations that demonstrate the analytical capabilities and insights derived from the PhonePe transaction data.
