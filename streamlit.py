@@ -688,10 +688,9 @@ def business_case_studies(conn):
                 }
             },
             "insights": """
-                - Maharashtra and Karnataka lead in digital payment adoption with the highest transaction volumes
-                - Southern states show higher transactions per user, indicating deeper penetration
-                - There's a clear urban-rural divide with metro regions showing 3x more transactions per user
-                - Peer-to-peer transactions dominate in urban areas while merchant payments are growing faster in rural regions
+                - Digital Commerce Leadership: Average transaction of ₹1.47K with Merchant Payments dominating indicates PhonePe has become essential infrastructure for everyday retail, from street vendors to small businesses across India.
+                - Economic Hub Concentration: Top states (Maharashtra, Karnataka, UP) align with major economic centers, while remote regions (Mizoram, Lakshadweep, Andaman) show significant growth potential in underserved markets.
+                - Mainstream Adoption: The moderate transaction value suggests successful penetration beyond urban elites into middle-class daily commerce, replacing cash for routine purchases and bill payments.
             """
         },
         "2. User Engagement and Growth Strategy": {
