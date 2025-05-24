@@ -273,7 +273,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Author
 
-- **BALAJI K** - [YourGitHub](https://github.com/Balaji-itz-me)
+- **BALAJI K** - (https://github.com/Balaji-itz-me)
 
 ## 🙏 Acknowledgments
 
@@ -287,7 +287,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and questions:
 - Create an issue on GitHub
 - Email: balajikamaraj99@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/balaji-k-626613157/)
+- LinkedIn: (https://www.linkedin.com/in/balaji-k-626613157/)
 
 ## 🖼️ Screenshots & Visualizations
 
