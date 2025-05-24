@@ -1,5 +1,49 @@
 # PhonePe Digital Payment Analytics Dashboard
 
+## 📋 Table of Contents
+
+- [📊 Project Overview](#-project-overview)
+- [🎯 Problem Statement](#-problem-statement)
+- [🚀 Features](#-features)
+  - [Streamlit Dashboard](#streamlit-dashboard)
+  - [Power BI Dashboard](#power-bi-dashboard)
+- [📁 Project Structure](#-project-structure)
+- [🛠️ Technology Stack](#️-technology-stack)
+  - [Streamlit Application](#streamlit-application)
+  - [Power BI Dashboard](#power-bi-dashboard-1)
+  - [Data Processing](#data-processing)
+- [📋 Prerequisites](#-prerequisites)
+- [🔧 Installation & Setup](#-installation--setup)
+  - [Streamlit Dashboard](#streamlit-dashboard-1)
+  - [Power BI Dashboard](#power-bi-dashboard-2)
+- [📊 Data Sources](#-data-sources)
+- [🔍 Key Insights & Analytics](#-key-insights--analytics)
+  - [Transaction Analytics](#transaction-analytics)
+  - [Geographical Analysis](#geographical-analysis)
+  - [User Behavior](#user-behavior)
+- [📈 Dashboard Features](#-dashboard-features)
+  - [Streamlit Dashboard Pages](#streamlit-dashboard-pages)
+  - [Power BI Dashboard Tabs](#power-bi-dashboard-tabs)
+- [🚀 Usage Examples](#-usage-examples)
+  - [Streamlit Dashboard](#streamlit-dashboard-2)
+  - [Power BI Calculations](#power-bi-calculations)
+- [🔧 Customization](#-customization)
+  - [Adding New Visualizations](#adding-new-visualizations)
+  - [Data Source Integration](#data-source-integration)
+- [📱 Mobile Compatibility](#-mobile-compatibility)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [👥 Authors](#-authors)
+- [🙏 Acknowledgments](#-acknowledgments)
+- [📞 Support](#-support)
+- [🖼️ Screenshots & Visualizations](#️-screenshots--visualizations)
+  - [Streamlit Dashboard Screenshots](#streamlit-dashboard-screenshots)
+  - [Power BI Dashboard Screenshots](#power-bi-dashboard-screenshots)
+  - [Data Analysis Visualizations](#data-analysis-visualizations)
+- [🔮 Future Enhancements](#-future-enhancements)
+
+---
+
 ## 📊 Project Overview
 
 This project provides comprehensive analysis and visualization of PhonePe digital payment ecosystem data, focusing on transaction dynamics, user engagement patterns, and insurance-related metrics. The analysis helps understand payment trends across different geographical regions and categories to improve services and enhance user targeting strategies.
@@ -229,7 +273,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Author
 
-- **BALAJI K** -(https://github.com/Balaji-itz-me)
+- **BALAJI K** - [YourGitHub](https://github.com/Balaji-itz-me)
 
 ## 🙏 Acknowledgments
 
@@ -243,7 +287,138 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support and questions:
 - Create an issue on GitHub
 - Email: balajikamaraj99@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/balaji-k-626613157/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/balaji-k-626613157/)
+
+## 🖼️ Screenshots & Visualizations
+
+This section showcases the various visualizations and dashboards created for different business cases using Pandas, Streamlit, and Power BI.
+
+### Streamlit Dashboard Screenshots
+
+#### Main Dashboard Overview
+![Streamlit Main Dashboard](images/streamlit/main_dashboard.png)
+*Main dashboard showing key metrics and navigation*
+
+#### Geographical Analysis
+![State-wise Transaction Map](images/streamlit/state_map.png)
+*Interactive map displaying state-wise transaction volumes*
+
+#### Transaction Trends
+![Transaction Trends Over Time](images/streamlit/transaction_trends.png)
+*Time-series analysis of transaction volumes and patterns*
+
+![Category Performance](images/streamlit/category_performance.png)
+*Payment category performance breakdown*
+
+#### Top Performers Dashboard
+![Top States Performance](images/streamlit/top_states.png)
+*Ranking of top-performing states by transaction volume*
+
+![Top Districts Analysis](images/streamlit/top_districts.png)
+*District-wise performance metrics and comparisons*
+
+### Power BI Dashboard Screenshots
+
+#### Executive Summary
+![Power BI Executive Dashboard](images/powerbi/executive_summary.png)
+*High-level KPIs and business metrics overview*
+
+#### Geographic Insights
+![Power BI Geographic Analysis](images/powerbi/geographic_insights.png)
+*Interactive geographical analysis with drill-down features*
+
+![Regional Performance Comparison](images/powerbi/regional_comparison.png)
+*Comparative analysis across different regions*
+
+#### Trend Analysis
+![Historical Trends](images/powerbi/historical_trends.png)
+*Historical transaction trends and forecasting*
+
+![Seasonal Patterns](images/powerbi/seasonal_patterns.png)
+*Seasonal transaction pattern analysis*
+
+#### Insurance Analytics
+![Insurance Dashboard](images/powerbi/insurance_analytics.png)
+*Dedicated insurance transaction analysis dashboard*
+
+### Data Analysis Visualizations
+
+#### Pandas Analysis Charts
+![Transaction Volume Distribution](images/analysis/volume_distribution.png)
+*Statistical distribution of transaction volumes*
+
+![Correlation Matrix](images/analysis/correlation_matrix.png)
+*Correlation analysis between different metrics*
+
+![Box Plot Analysis](images/analysis/boxplot_analysis.png)
+*Statistical analysis of transaction patterns by region*
+
+#### Advanced Analytics
+![Predictive Analysis](images/analysis/predictive_model.png)
+*Machine learning model predictions for transaction trends*
+
+![Clustering Analysis](images/analysis/clustering_analysis.png)
+*User segmentation through clustering algorithms*
+
+### Business Case Studies
+
+#### Case Study 1: Urban vs Rural Digital Adoption
+![Urban Rural Comparison](images/case_studies/urban_rural_comparison.png)
+*Comparative analysis of digital payment adoption patterns*
+
+#### Case Study 2: Festival Season Impact
+![Festival Impact Analysis](images/case_studies/festival_impact.png)
+*Transaction surge analysis during festival seasons*
+
+#### Case Study 3: Insurance Product Performance
+![Insurance Performance](images/case_studies/insurance_performance.png)
+*Insurance product adoption and performance metrics*
+
+#### Case Study 4: Regional Growth Patterns
+![Regional Growth](images/case_studies/regional_growth.png)
+*Growth pattern analysis across different geographical regions*
+
+#### Case Study 5: Payment Category Trends
+![Category Trends](images/case_studies/category_trends.png)
+*Evolution of different payment categories over time*
+
+### Image Organization Structure
+
+```
+images/
+│
+├── streamlit/
+│   ├── main_dashboard.png
+│   ├── state_map.png
+│   ├── transaction_trends.png
+│   ├── category_performance.png
+│   ├── top_states.png
+│   └── top_districts.png
+│
+├── powerbi/
+│   ├── executive_summary.png
+│   ├── geographic_insights.png
+│   ├── regional_comparison.png
+│   ├── historical_trends.png
+│   ├── seasonal_patterns.png
+│   └── insurance_analytics.png
+│
+├── analysis/
+│   ├── volume_distribution.png
+│   ├── correlation_matrix.png
+│   ├── boxplot_analysis.png
+│   ├── predictive_model.png
+│   └── clustering_analysis.png
+│
+└── case_studies/
+    ├── urban_rural_comparison.png
+    ├── festival_impact.png
+    ├── insurance_performance.png
+    ├── regional_growth.png
+    └── category_trends.png
+```
+
+> **Note**: All images are high-resolution screenshots and visualizations that demonstrate the analytical capabilities and insights derived from the PhonePe transaction data.
 
 ## 🔮 Future Enhancements
 
