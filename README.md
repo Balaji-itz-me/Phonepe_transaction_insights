@@ -353,35 +353,6 @@ This section showcases the various visualizations and dashboards created for dif
 ![Box Plot Analysis](images/analysis/boxplot_analysis.png)
 *Statistical analysis of transaction patterns by region*
 
-#### Advanced Analytics
-![Predictive Analysis](images/analysis/predictive_model.png)
-*Machine learning model predictions for transaction trends*
-
-![Clustering Analysis](images/analysis/clustering_analysis.png)
-*User segmentation through clustering algorithms*
-
-### Business Case Studies
-
-#### Case Study 1: Urban vs Rural Digital Adoption
-![Urban Rural Comparison](images/case_studies/urban_rural_comparison.png)
-*Comparative analysis of digital payment adoption patterns*
-
-#### Case Study 2: Festival Season Impact
-![Festival Impact Analysis](images/case_studies/festival_impact.png)
-*Transaction surge analysis during festival seasons*
-
-#### Case Study 3: Insurance Product Performance
-![Insurance Performance](images/case_studies/insurance_performance.png)
-*Insurance product adoption and performance metrics*
-
-#### Case Study 4: Regional Growth Patterns
-![Regional Growth](images/case_studies/regional_growth.png)
-*Growth pattern analysis across different geographical regions*
-
-#### Case Study 5: Payment Category Trends
-![Category Trends](images/case_studies/category_trends.png)
-*Evolution of different payment categories over time*
-
 ### Image Organization Structure
 
 ```
@@ -407,8 +378,6 @@ images/
 │   ├── volume_distribution.png
 │   ├── correlation_matrix.png
 │   ├── boxplot_analysis.png
-│   ├── predictive_model.png
-│   └── clustering_analysis.png
 │
 └── case_studies/
     ├── urban_rural_comparison.png
