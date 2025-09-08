@@ -16,7 +16,7 @@
 
 > **Click the link above to explore the live Power BI dashboard featuring PhonePe transaction analytics**
 
-[![Dashboard Screenshot](images/powerbi/transaction_dynamics.png)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
+[![Dashboard Screenshot](images/powerbi/executive_summary.png)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
 
 ---
 
@@ -291,7 +291,7 @@ streamlit run app.py
 
 [![Email](https://img.shields.io/badge/Email-balajikamaraj99@gmail.com-red?style=for-the-badge)](mailto:balajikamaraj99@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balaji-k-626613157/)
-[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/Balaji-itz-me)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](Phone_pay.ipynb)
 
 </div>
 
