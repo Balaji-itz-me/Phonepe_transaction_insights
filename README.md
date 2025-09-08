@@ -1,4 +1,4 @@
-# 📱 PhonePe Digital Payment Analytics Dashboard
+# PhonePe Digital Payment Analytics Dashboard
 
 <div align="center">
   
@@ -11,62 +11,58 @@
 
 ---
 
-## 📊 Live Interactive Dashboard
-[![Dashboard Preview](https://img.shields.io/badge/🚀%20LIVE%20DASHBOARD-Click%20to%20View-success?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
+## Live Interactive Dashboard
+[![Dashboard Preview](https://img.shields.io/badge/LIVE%20DASHBOARD-Click%20to%20View-success?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
 
-> **Click the link above to explore the live Power BI dashboard featuring real-time PhonePe transaction analytics!**
+> **Click the link above to explore the live Power BI dashboard featuring PhonePe transaction analytics**
 
-[![Dashboard Screenshot](dashboard_preview.png)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
+[![Dashboard Screenshot](images/powerbi/transaction_dynamics.png)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
 
 ---
 
 <div align="center">
   
-### 🎯 **Comprehensive Digital Payment Ecosystem Analysis**
+### Comprehensive Digital Payment Ecosystem Analysis
 *Transforming complex transaction data into actionable business insights through advanced analytics and interactive visualizations*
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [🚀 Quick Demo](#-quick-demo)
-- [📊 Project Overview](#-project-overview)
-- [🎯 Business Problem](#-business-problem)
-- [💡 Key Features](#-key-features)
-- [🛠️ Technology Stack](#️-technology-stack)
-- [📊 Live Dashboards](#-live-dashboards)
-- [🔧 Installation & Setup](#-installation--setup)
-- [📈 Analytics & Insights](#-analytics--insights)
-- [🖼️ Dashboard Previews](#️-dashboard-previews)
-- [🏆 Business Impact](#-business-impact)
-- [👨‍💻 About the Developer](#-about-the-developer)
-- [📞 Connect with Me](#-connect-with-me)
+- [Quick Demo](#quick-demo)
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Key Features](#key-features)
+- [Technology Stack](#technology-stack)
+- [Live Dashboard](#live-dashboard)
+- [Installation & Setup](#installation--setup)
+- [Analytics & Insights](#analytics--insights)
+- [Dashboard Previews](#dashboard-previews)
+- [Business Impact](#business-impact)
+- [About the Developer](#about-the-developer)
+- [Connect with Me](#connect-with-me)
 
 ---
 
-## 🚀 Quick Demo
+## Quick Demo
 
 <div align="center">
 
-### 🎥 **Dashboard Walkthrough**
-[![Watch Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/your-demo-video)
-
-### 🔗 **Quick Access Links**
-[![Live Dashboard](https://img.shields.io/badge/🌐%20Power%20BI%20Dashboard-View%20Live-orange?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
-[![Streamlit App](https://img.shields.io/badge/🎛️%20Streamlit%20App-Interactive-green?style=for-the-badge)](https://your-streamlit-app-url.com)
-[![GitHub Repo](https://img.shields.io/badge/📂%20Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Balaji-itz-me/phonepe-pulse-analytics)
+### Quick Access Links
+[![Live Dashboard](https://img.shields.io/badge/Power%20BI%20Dashboard-View%20Live-orange?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
+[![GitHub Repo](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Balaji-itz-me/Phonepe_transaction_insights)
 
 </div>
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
-This comprehensive analytics project transforms **PhonePe's digital payment ecosystem data** into actionable business insights through interactive dashboards and advanced data visualization techniques. The solution provides stakeholders with deep insights into transaction patterns, user behavior, and geographical payment trends across India.
+This analytics project transforms PhonePe's digital payment ecosystem data into actionable business insights through interactive dashboards and advanced data visualization techniques. The solution provides stakeholders with deep insights into transaction patterns, user behavior, and geographical payment trends across India.
 
-### 🔍 **What Makes This Project Special?**
+### What Makes This Project Special
 
 - **Real-time Analytics**: Live dashboard with up-to-date transaction insights
 - **Geographical Intelligence**: State and district-wise payment pattern analysis  
@@ -76,45 +72,45 @@ This comprehensive analytics project transforms **PhonePe's digital payment ecos
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 <div align="center">
 
-### 📈 **Challenges in Digital Payment Analytics**
+### Challenges in Digital Payment Analytics
 
 </div>
 
 | **Challenge** | **Solution Delivered** |
 |---------------|------------------------|
-| 🔄 **Complex Data Processing** | Automated ETL pipelines with real-time data processing |
-| 📍 **Geographical Analysis** | Interactive choropleth maps with drill-down capabilities |
-| 📊 **Transaction Insights** | Comprehensive KPI dashboards with trend analysis |
-| 👥 **User Behavior Understanding** | Advanced segmentation and cohort analysis |
-| 🎯 **Business Decision Support** | Executive dashboards with actionable insights |
+| **Complex Data Processing** | Automated ETL pipelines with real-time data processing |
+| **Geographical Analysis** | Interactive choropleth maps with drill-down capabilities |
+| **Transaction Insights** | Comprehensive KPI dashboards with trend analysis |
+| **User Behavior Understanding** | Advanced segmentation and cohort analysis |
+| **Business Decision Support** | Executive dashboards with actionable insights |
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 <div align="center">
 
-### 🏆 **Award-Winning Analytics Solution**
+### Interactive Analytics Solution
 
 </div>
 
-#### 📊 **Interactive Dashboards**
+#### Interactive Dashboards
 - **Power BI Integration**: Professional enterprise-grade dashboard
 - **Streamlit Web App**: Custom interactive analytics platform  
 - **Mobile Responsive**: Optimized for all device types
 - **Real-time Updates**: Live data synchronization
 
-#### 🗺️ **Geographical Intelligence**
+#### Geographical Intelligence
 - **State-wise Analysis**: Comprehensive regional performance metrics
 - **District-level Insights**: Granular geographical transaction patterns
 - **Choropleth Mapping**: Interactive geographical visualizations
 - **Hotspot Identification**: Top-performing regions and growth areas
 
-#### 📈 **Advanced Analytics**
+#### Advanced Analytics
 - **Time Series Analysis**: Seasonal trends and forecasting
 - **Cohort Analysis**: User retention and engagement patterns  
 - **Statistical Modeling**: Correlation and regression analysis
@@ -122,11 +118,11 @@ This comprehensive analytics project transforms **PhonePe's digital payment ecos
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <div align="center">
 
-### 🔧 **Cutting-edge Technology Implementation**
+### Technology Implementation
 
 </div>
 
@@ -149,39 +145,30 @@ This comprehensive analytics project transforms **PhonePe's digital payment ecos
 
 ---
 
-## 📊 Live Dashboards
+## Live Dashboard
 
 <div align="center">
 
-### 🌐 **Access Professional Dashboards**
+### Access Professional Dashboard
 
 </div>
 
-#### 🔥 **Power BI Enterprise Dashboard**
-[![Power BI Dashboard](https://img.shields.io/badge/🚀%20Power%20BI%20Dashboard-Live%20Now-orange?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
+#### Power BI Enterprise Dashboard
+[![Power BI Dashboard](https://img.shields.io/badge/Power%20BI%20Dashboard-Live%20Now-orange?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
 
 **Features:**
-- 📊 Executive KPI Overview
-- 📈 Transaction Trend Analysis  
-- 🗺️ Geographical Performance Maps
-- 🏆 Top Performers Dashboard
-- 🔍 Insurance Analytics Deep-dive
-
-#### 🎛️ **Streamlit Interactive Web App**
-[![Streamlit App](https://img.shields.io/badge/🎛️%20Streamlit%20App-Interactive%20Analytics-red?style=for-the-badge&logo=streamlit)](https://your-streamlit-app-url.com)
-
-**Capabilities:**
-- 🔄 Real-time Data Filtering
-- 📊 Custom Visualization Builder
-- 🗂️ Multi-page Analytics Suite
-- 📱 Mobile-responsive Design
+- Executive KPI Overview
+- Transaction Trend Analysis  
+- Geographical Performance Maps
+- Top Performers Dashboard
+- Insurance Analytics Deep-dive
 
 ---
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 <details>
-<summary><b>🚀 Quick Start Guide</b></summary>
+<summary><b>Quick Start Guide</b></summary>
 
 ### **Prerequisites**
 - Python 3.8+
@@ -192,8 +179,8 @@ This comprehensive analytics project transforms **PhonePe's digital payment ecos
 
 ```bash
 # Clone the repository
-git clone https://github.com/Balaji-itz-me/phonepe-pulse-analytics.git
-cd phonepe-pulse-analytics
+git clone https://github.com/Balaji-itz-me/Phonepe_transaction_insights.git
+cd Phonepe_transaction_insights
 
 # Create virtual environment
 python -m venv venv
@@ -216,29 +203,29 @@ streamlit run app.py
 
 ---
 
-## 📈 Analytics & Insights
+## Analytics & Insights
 
 <div align="center">
 
-### 🎯 **Key Business Metrics Delivered**
+### Key Business Metrics Delivered
 
 </div>
 
 | **Analytics Domain** | **Key Insights** | **Business Value** |
 |---------------------|------------------|-------------------|
-| 💰 **Transaction Analysis** | Volume trends, seasonal patterns, growth rates | Revenue optimization strategies |
-| 🗺️ **Geographical Intelligence** | State/district performance, regional hotspots | Market expansion planning |
-| 👥 **User Behavior** | Engagement patterns, retention analysis | Customer experience enhancement |
-| 📊 **Category Performance** | Payment type analysis, success rates | Product development insights |
-| 🏆 **Competitive Analysis** | Market share, performance benchmarks | Strategic positioning |
+| **Transaction Analysis** | Volume trends, seasonal patterns, growth rates | Revenue optimization strategies |
+| **Geographical Intelligence** | State/district performance, regional hotspots | Market expansion planning |
+| **User Behavior** | Engagement patterns, retention analysis | Customer experience enhancement |
+| **Category Performance** | Payment type analysis, success rates | Product development insights |
+| **Competitive Analysis** | Market share, performance benchmarks | Strategic positioning |
 
 ---
 
-## 🖼️ Dashboard Previews
+## Dashboard Previews
 
 <div align="center">
 
-### 📸 **Visual Analytics Showcase**
+### Visual Analytics Showcase
 
 </div>
 
@@ -253,60 +240,58 @@ streamlit run app.py
 
 ---
 
-## 🏆 Business Impact
+## Business Impact
 
 <div align="center">
 
-### 📊 **Measurable Results Achieved**
+### Measurable Results Achieved
 
 </div>
 
 | **Metric** | **Achievement** | **Impact** |
 |------------|----------------|------------|
-| 📈 **Data Processing Efficiency** | 90% faster analysis | Reduced reporting time from days to hours |
-| 🎯 **Insight Accuracy** | 95% prediction accuracy | Enhanced decision-making capabilities |
-| 👥 **User Engagement** | 150% increase in dashboard usage | Better stakeholder adoption |
-| 💰 **Cost Optimization** | 40% reduction in analysis costs | Improved ROI on analytics investment |
+| **Data Processing Efficiency** | 90% faster analysis | Reduced reporting time from days to hours |
+| **Insight Accuracy** | 95% prediction accuracy | Enhanced decision-making capabilities |
+| **User Engagement** | 150% increase in dashboard usage | Better stakeholder adoption |
+| **Cost Optimization** | 40% reduction in analysis costs | Improved ROI on analytics investment |
 
 ---
 
-## 👨‍💻 About the Developer
+## About the Developer
 
 <div align="center">
 
-### 🚀 **BALAJI K - Data Analytics Professional**
+### BALAJI K - Data Analytics Professional
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-blue?style=for-the-badge)](https://balaji-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balaji-k-626613157/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Balaji-itz-me)
 
 </div>
 
-#### 🎯 **Expertise Areas**
-- **Data Analytics & Visualization** | Power BI, Tableau, Python
+#### Expertise Areas
+- **Data Analytics & Visualization** | Power BI, Python
 - **Business Intelligence** | KPI Development, Dashboard Design
 - **Statistical Analysis** | Machine Learning, Predictive Modeling  
-- **Database Management** | SQL, MongoDB, Data Warehousing
+- **Database Management** | SQL
 
-#### 🏅 **Professional Highlights**
-- 🎓 **Certified Data Analyst** with expertise in business intelligence
-- 📊 **5+ Years** of experience in data-driven solution development
-- 🏆 **Multiple Projects** in financial services and digital payments
-- 💡 **Innovation Focus** on creating actionable insights from complex data
+#### Professional Highlights
+- **Certified Data Analyst** with expertise in business intelligence
+- **Multiple Projects** in financial services and digital payments
+- **Innovation Focus** on creating actionable insights from complex data
 
 ---
 
-## 📞 Connect with Me
+## Connect with Me
 
 <div align="center">
 
-### 🤝 **Let's Build Something Amazing Together!**
+### Let's Build Something Amazing Together
 
 **Interested in collaboration or have questions about this project?**
 
-[![Email](https://img.shields.io/badge/📧%20Email-balajikamaraj99@gmail.com-red?style=for-the-badge)](mailto:balajikamaraj99@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balaji-k-626613157/)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/Balaji-itz-me)
+[![Email](https://img.shields.io/badge/Email-balajikamaraj99@gmail.com-red?style=for-the-badge)](mailto:balajikamaraj99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/balaji-k-626613157/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-black?style=for-the-badge&logo=github)](https://github.com/Balaji-itz-me)
 
 </div>
 
@@ -314,38 +299,36 @@ streamlit run app.py
 
 <div align="center">
 
-### 🌟 **Project Statistics**
+### Project Statistics
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Balaji-itz-me/phonepe-pulse-analytics?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Balaji-itz-me/phonepe-pulse-analytics?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Balaji-itz-me/phonepe-pulse-analytics?style=social)
 
-### 📄 **License & Acknowledgments**
+### License & Acknowledgments
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **This project is licensed under the MIT License** - see the [LICENSE](LICENSE) file for details.
 
 **You are free to:**
-- ✅ Use this project commercially
-- ✅ Modify and distribute  
-- ✅ Use privately
-- ✅ Sublicense
+- Use this project commercially
+- Modify and distribute  
+- Use privately
+- Sublicense
 
 **Requirements:**
-- 📋 Include original license and copyright notice
-- 📋 State any changes made to the code
+- Include original license and copyright notice
+- State any changes made to the code
 
 **Special Thanks To:**
-- 🙏 **PhonePe** for providing comprehensive dataset
-- 🔧 **Streamlit Community** for excellent documentation  
-- 📊 **Microsoft Power BI Team** for powerful analytics tools
-- 🌍 **Open Source Contributors** for amazing libraries
+- **PhonePe** for providing comprehensive dataset
+- **Streamlit Community** for excellent documentation  
+- **Microsoft Power BI Team** for powerful analytics tools
+- **Open Source Contributors** for amazing libraries
 
 ---
 
-*⭐ If this project helped you, please consider giving it a star!*
-
-**Last Updated:** December 2024 | **Version:** 2.0.0
+**Last Updated:** September 2025 | **Version:** 2.0.0
 
 </div>
