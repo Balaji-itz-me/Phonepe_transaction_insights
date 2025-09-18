@@ -4,7 +4,6 @@
   
 [![PhonePe Analytics](https://img.shields.io/badge/PhonePe-Analytics-purple?style=for-the-badge&logo=phonepe)](https://github.com/Balaji-itz-me)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Live%20Dashboard-yellow?style=for-the-badge&logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red?style=for-the-badge&logo=streamlit)](https://github.com/Balaji-itz-me)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)](https://python.org)
 
 </div>
