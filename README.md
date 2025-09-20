@@ -51,7 +51,7 @@
 
 ### Quick Access Links
 [![Live Dashboard](https://img.shields.io/badge/Power%20BI%20Dashboard-View%20Live-orange?style=for-the-badge)](https://app.powerbi.com/view?r=eyJrIjoiNTFhNDIwNzUtZGE4MS00ZjZlLTgzYjItOTRhYTkwNDY0NThiIiwidCI6IjAxMGVjNjA3LTRlMTEtNGJhNC1iZjkzLWYyYzJjZjRjZTRiOCJ9)
-[![GitHub Repo](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Balaji-itz-me/Phonepe_transaction_insights)
+[![GitHub Repo](https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github)](Phone_pay.ipynb)
 
 </div>
 
